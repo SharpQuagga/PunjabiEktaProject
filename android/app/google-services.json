@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1007699344854",
+    "firebase_url": "https://punjabiekta-c0961.firebaseio.com",
+    "project_id": "punjabiekta-c0961",
+    "storage_bucket": "punjabiekta-c0961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007699344854:android:a82953dc1896243f",
+        "android_client_info": {
+          "package_name": "com.example.punjabiekta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007699344854-b7th0ij74a3k9lo8aqlijthidaslb7uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTZzhnnTaDKH642ywBdC_ul-DfPPpOhT8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
